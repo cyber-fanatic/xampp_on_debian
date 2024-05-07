@@ -38,7 +38,10 @@ In this repository you will learn how to install xampp on debian os.<br>
 
 ![Screenshot from 2024-05-07 21-15-39](https://github.com/cyber-fanatic/xampp_on_debian/assets/159928985/c7233bff-a3db-4430-b163-8e486d72d949)
 
-<h3>After completing the setup process you will see popup window like figure(4.0.1) below</h3>
+<h3>After completing the setup process you will see popup window like figure(4.0.1) below:</h3>
+<ul><li>You can also start and stop the services accordingly.</li></ul>
+
+![Screenshot from 2024-05-07 21-21-59](https://github.com/cyber-fanatic/xampp_on_debian/assets/159928985/992af932-42ac-4eec-9d1c-06337fd8b64a)
 
 4) <h3>Start the XAMPP server: (shown in figure(5.0))</h3>
 <ul>
