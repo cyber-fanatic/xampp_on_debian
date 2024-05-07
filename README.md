@@ -75,7 +75,7 @@ In this repository you will learn how to install xampp on debian os.<br>
 
 7) <h3>To Stop the XAMPP in Linux:</h3>
 <ol>
-  li>Run the following command to <ins>Stop</ins> the xampp:  <b>(shown in figure(8.0))</b> </li>
+  <li>Run the following command to <ins>Stop</ins> the xampp:  <b>(shown in figure(8.0))</b> </li>
 </ol>
 <em>figure(7.0)</em>
 
