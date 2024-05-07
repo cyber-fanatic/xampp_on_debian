@@ -78,6 +78,8 @@ In this repository you will learn how to install xampp on debian os.<br>
   li>Run the following command to <ins>Stop</ins> the xampp:  <b>(shown in figure(8.0))</b> </li>
 </ol>
 <em>figure(7.0)</em>
+
+![Screenshot from 2024-05-07 21-34-36](https://github.com/cyber-fanatic/xampp_on_debian/assets/159928985/b59b0ebd-d394-4f5d-8cd2-6472118036b3)
    
 
 
