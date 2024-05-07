@@ -4,6 +4,10 @@ In this repository you will learn how to install xampp on debian os.<br>
                  XAMPP,which stands for ( Cross-Platform,Apache,MySQL,PHP,and Perl ), is a free platform that allows developers to test their code locally on their own computers.
                  This provide you own web server at your home.<br>
  <h3>pre-requirements:</h3> 
+ <h3>What is Debian ?</h3>
+                  Debian GNU/Linux is a particular distribution of the Linux (free and open source)operating system, and numerous packages are run on it. 
+                  Debian includes more than 59100 software packages at present. Users can select which packages to install by using
+                  <b>dpkg</b> stands for debia package manager.dpkg is a package manager for Debian-based systems.
  <ol> 
  <li>Debian os</li>
  <li>Helthy internet connection</li>
@@ -77,7 +81,7 @@ In this repository you will learn how to install xampp on debian os.<br>
 <ol>
   <li>Run the following command to <ins>Stop</ins> the xampp:  <b>(shown in figure(8.0))</b> </li>
 </ol>
-<em>figure(7.0)</em>
+<em>figure(8.0)</em>
 
 ![Screenshot from 2024-05-07 21-34-36](https://github.com/cyber-fanatic/xampp_on_debian/assets/159928985/b59b0ebd-d394-4f5d-8cd2-6472118036b3)
    
