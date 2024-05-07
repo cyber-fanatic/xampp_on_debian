@@ -20,8 +20,11 @@ In this repository you will learn how to install xampp on debian os.<br>
 <ul>
   <li>Open the terminal and navigate to the directory containing the downloaded package.</li>
   <li>Execute the command sudo chmod  +x  xampp-linux-*-installer.run to make the installer executable.</li>
+  <li>After changing the mode to +x(executable) the color of downloaded package will changed.</li>
 </ul>
-<em>figure(1.0)</em>
+<em>figure(2.0)</em>
+
+![Screenshot from 2024-05-07 21-10-28](https://github.com/cyber-fanatic/xampp_on_debian/assets/159928985/29b7ef35-750b-4852-9093-7e2d57aa1ab2)
 
 
  
