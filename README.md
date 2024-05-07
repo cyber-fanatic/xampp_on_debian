@@ -88,6 +88,8 @@ In this repository you will learn how to install xampp on debian os.<br>
 <h3>You can check the <b>STATUS </b>of all XAMPP services by typing the following command in in the (/opt/lampp/) directory : (shown in figure(9.0)  )</h3>
 <em>figure(9.0)</em>
 
+![Screenshot from 2024-05-08 02-19-40](https://github.com/cyber-fanatic/xampp_on_debian/assets/159928985/0e69a3ea-a533-4ce0-9f12-dd3063a566dd)
+
 
 
 
