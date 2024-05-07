@@ -24,6 +24,12 @@ In this repository you will learn how to install xampp on debian os.<br>
 </ul>
 <em>figure(2.0)</em>
 
+![Screenshot from 2024-05-07 21-14-06](https://github.com/cyber-fanatic/xampp_on_debian/assets/159928985/f1942f2a-ce4f-46f1-a34d-fdf3de31eb66)
+
+<h3>Run the XAMPP installer:</h3>
+<b>Shown in figure(3.0)</b><br>
+<em>figure(3.0)</em>
+
 ![Screenshot from 2024-05-07 21-10-28](https://github.com/cyber-fanatic/xampp_on_debian/assets/159928985/29b7ef35-750b-4852-9093-7e2d57aa1ab2)
 
 
