@@ -93,6 +93,7 @@ In this repository you will learn how to install xampp on debian os.<br>
 8) <h3>To open the XAMPP Control Panel, type the command: (shown in figure(10.0) )</h3>
 <em>figure(10.0)</em>
 
+![Screenshot from 2024-05-08 02-30-15](https://github.com/cyber-fanatic/xampp_on_debian/assets/159928985/33da1e39-7484-40e5-a67f-dd9d94b05372)
 
 
 
