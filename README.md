@@ -19,6 +19,7 @@ In this repository you will learn how to install xampp on debian os.<br>
 <b>Shown in figure(2.0)</b>
 <ul>
   <li>Open the terminal and navigate to the directory containing the downloaded package.</li>
+  <li>You can use the <b>ls</b> command to list all files and directorys in the <b>Download Folder</b></li>
   <li>Execute the command sudo chmod  +x  xampp-linux-*-installer.run to make the installer executable.</li>
   <li>After changing the mode to +x(executable) the color of downloaded package will changed.</li>
 </ul>
@@ -26,13 +27,13 @@ In this repository you will learn how to install xampp on debian os.<br>
 
 ![Screenshot from 2024-05-07 21-10-28](https://github.com/cyber-fanatic/xampp_on_debian/assets/159928985/29b7ef35-750b-4852-9093-7e2d57aa1ab2)
 
-2) <h3>Run the XAMPP installer: (Shown in figure(3.0))</h3>
+2) <h3>Run the XAMPP installer: (Shown in figure(3.0) )</h3>
 <ul><li>Run the installer using the command sudo ./xampp-linux-*-installer.run.</li></ul>
 <em>figure(3.0)</em>
 
 ![Screenshot from 2024-05-07 21-14-06](https://github.com/cyber-fanatic/xampp_on_debian/assets/159928985/f1942f2a-ce4f-46f1-a34d-fdf3de31eb66)
 
-3) <h3>setup XAMPP: (shown in figure(4.0 and 4.0.1))</h3>
+3) <h3>setup XAMPP: (shown in figure(4.0 and 4.0.1) )</h3>
 <ul><li>Configure the xampp by clicking on the <ins>Forward</ins> button.</li></ul>
 <em>figure(4.0)</em>
 
@@ -43,7 +44,7 @@ In this repository you will learn how to install xampp on debian os.<br>
 
 ![Screenshot from 2024-05-07 21-21-59](https://github.com/cyber-fanatic/xampp_on_debian/assets/159928985/992af932-42ac-4eec-9d1c-06337fd8b64a)
 
-4) <h3>Start the XAMPP server: (shown in figure(5.0))</h3>
+4) <h3>Start the XAMPP server: (shown in figure(5.0) )</h3>
 <ul>
   <li>After installation, start the server with sudo /opt/lampp/lampp start.</li>
   <li>/opt/lampp/ are the directorys in the linux where xampp stored by default.</li>
@@ -52,6 +53,8 @@ In this repository you will learn how to install xampp on debian os.<br>
 <em>figure(5.0)</em>
 
 ![Screenshot from 2024-05-07 21-33-59](https://github.com/cyber-fanatic/xampp_on_debian/assets/159928985/38c27ee9-485d-4e7a-8bbe-6413b1eb9f09)
+
+5) <h3>Verify the installation: (shown in figure(6.0) )</h3>
 
 
 
