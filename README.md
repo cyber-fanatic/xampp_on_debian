@@ -55,6 +55,10 @@ In this repository you will learn how to install xampp on debian os.<br>
 ![Screenshot from 2024-05-07 21-33-59](https://github.com/cyber-fanatic/xampp_on_debian/assets/159928985/38c27ee9-485d-4e7a-8bbe-6413b1eb9f09)
 
 5) <h3>Verify the installation: (shown in figure(6.0) )</h3>
+<ul>
+  <li>Open a web browser and go to http://localhost to confirm the successful installation by viewing the XAMPP welcome page.</li>
+  <li>Remember........ the efault Local host is  127.0.0.1 </li>
+</ul>
 <em>figure(6.0)</em>
 
 ![Screenshot from 2024-05-08 00-58-24](https://github.com/cyber-fanatic/xampp_on_debian/assets/159928985/421a1e98-73e4-41fe-894c-9cfeb250d0a3)
