@@ -6,7 +6,7 @@ In this repository you will learn how to install xampp on debian os.<br>
  <h3>What is Debian ?</h3>
                   Debian GNU/Linux is a particular distribution of the Linux (free and open source)operating system, and numerous packages are run on it. 
                   Debian includes more than 59100 software packages at present. Users can select which packages to install by using
-                  <b>dpkg</b> stands for debia package manager.dpkg is a package manager for Debian-based systems.
+                  <b>dpkg.</b>dpkg  stands for debian package manager.dpkg is a package manager for Debian-based systems.
  <h3>pre-requirements:</h3>
  <ol> 
  <li>Debian os</li>
